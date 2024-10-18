@@ -1,0 +1,10 @@
+{
+    "userFail": {
+        "username": "TestFail@fail.com",
+        "password": "PassFail"
+    },
+    "registeredUser": {
+        "username": "admin@test.com",
+        "password": "test123"
+    }
+}
